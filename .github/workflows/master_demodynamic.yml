@@ -50,4 +50,4 @@ jobs:
           app-name: 'DemoDynamic'
           slot-name: 'Production'
           package: '*.war'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_07DF5ED1A39D4AC1878E13E328A216E6 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1396B60D764B43D1B24520603A86BF9E }}
